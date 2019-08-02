@@ -1,0 +1,74 @@
+
+ 
+ 
+.navBar {
+    height: 70px;
+    width: 100%;
+    background-color: #cde1f7;
+    border: 1px solid #95b9e0;
+}
+.leftContainer {
+
+    height: 720px;
+    width: 142px;
+    background-color: #e5d8ef;
+    border: 1px solid #d6bbea;
+    margin-top: .5px;
+    float: left;
+}
+.middleContainer{
+    height: 720px;
+    width: 826px;
+    background-color: #ffffff;
+    border: 1px solid #ffffff;
+    float: left;
+}
+.emptySpace{
+
+    margin: 20px;
+    width: 535px;
+    height: 700px;
+    background-color: #f7dcc9;
+    border: 1px solid #f5c4a2;
+    float: left;
+}
+
+.loginForm {
+
+    margin: 10px;
+    width: 228px;
+    height: 200px;
+    background-color: #fbe2b5;
+    float: left;
+}
+.loginBox{
+
+    margin-top: 19px;
+    margin-left: 19px;
+    margin-right:19px;
+    text-align: center;
+}
+.loginButton{
+    float: right;
+    margin-right: 29px;
+    margin-top: 21px;
+}
+
+.rightContainer{
+    height: 720px;
+    width: 142px;
+    background-color: #6cacf1;
+    border: 1px solid #5ba3f1;
+    float: left;
+    margin-top: .5px;
+}
+
+.footer{
+
+    width: 100%;
+    height: 50px;
+    background-color: #bfecb6;
+    margin-top: 723px;
+    border: 1px solid #99e889;
+}
+
